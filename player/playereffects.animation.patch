@@ -1,0 +1,4 @@
+[
+{"op":"add","path":"/sounds/pickup/pitchMultiplier","value":6.9},
+{"op":"add","path":"/sounds/pickup/volume","value":420}
+]
