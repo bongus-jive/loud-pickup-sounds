@@ -1,9 +1,10 @@
 {
-  "version" : "1.0",
   "author" : "patman",
-  "description" : "i was looking at playereffects.animation and noticed a blank sound called 'pickup'\nwhen you pick something up the sounds pool gets set to. the pickup sound\n\ni gave it a pitch of 6.9 and a volume of 420\n\nyou're welcome\n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n\n\n[img]https://media.discordapp.net/attachments/614208141885964308/1045440601958666391/funny_cac.gif?width=69&height=69[/img]",
-  "name" : "pat_loudpickup",
+  "description" : "gives item pickup sounds a pitch of 6.9 and a volume of 420\n\nyou're welcome",
   "friendlyName" : "loud pickup sounds",
+  "link" : "steam://url/CommunityFilePage/2911679568",
+  "name" : "pat_loudpickup",
   "steamContentId" : "2911679568",
-  "link" : "steam://url/CommunityFilePage/2911679568"
+  "steamDescription" : "i was looking at playereffects.animation and noticed a blank sound called 'pickup'\nwhen you pick something up the sounds pool gets set to. the pickup sound\n\ni gave it a pitch of 6.9 and a volume of 420\n\nyou're welcome\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/loud-pickup-sounds",
+  "version" : "1.0.1"
 }
